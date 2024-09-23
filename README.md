@@ -1,2 +1,3 @@
-# ufsm00050_com_dados
-Repositório da disciplina  UFSM00050 - Comunicação de Dados
+# Repositório da disciplina UFSM00050 - Comunicação de Dados
+
+Códigos de exemplos e exercícios
